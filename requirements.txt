@@ -1,0 +1,6 @@
+streamlit
+google-genai
+speechrecognition
+deep-translator
+gtts
+python-dotenv
